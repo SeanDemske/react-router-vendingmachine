@@ -1,0 +1,10 @@
+.Navbar a{
+    margin: 2rem;
+    color: rgb(46, 46, 46);
+    text-decoration: none;
+}
+
+.Navbar a.active{
+    color: rgb(20, 20, 20);
+    text-decoration: underline;
+}
